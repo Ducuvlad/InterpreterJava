@@ -1,0 +1,65 @@
+ExeStack:
+ b=a + 1 then b
+a=2 + 3 * 5
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+ExeStack:
+ b=a + 1 then b
+
+ symTable:
+a->17
+ Output:
+
+ FileTable: 
+ExeStack:
+ b
+b=a + 1
+
+ symTable:
+a->17
+ Output:
+
+ FileTable: 
+ExeStack:
+ b
+
+ symTable:
+a->17b->18
+ Output:
+
+ FileTable: 
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+ExeStack:
+ x
+x=11
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+ExeStack:
+ x
+
+ symTable:
+x->11
+ Output:
+
+ FileTable: 
+ExeStack:
+ 
+ symTable:
+x->11
+ Output:
+11 
+ FileTable: 

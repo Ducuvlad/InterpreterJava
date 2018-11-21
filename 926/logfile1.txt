@@ -1,0 +1,239 @@
+ExeStack:
+ a=2 + 3 * 5 then b=a + 1 then b
+var_c
+
+ read from id:1 into variable:var_c
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617cExeStack:
+ a=2 + 3 * 5 then b=a + 1 then b
+var_c
+
+ symTable:
+var_c->15
+ Output:
+
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617cExeStack:
+ a=2 + 3 * 5 then b=a + 1 then b
+
+ symTable:
+var_c->15
+ Output:
+15 
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617cExeStack:
+ b=a + 1 then b
+a=2 + 3 * 5
+
+ symTable:
+var_c->15
+ Output:
+15 
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617cExeStack:
+ b=a + 1 then b
+
+ symTable:
+a->17var_c->15
+ Output:
+15 
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617cExeStack:
+ b
+b=a + 1
+
+ symTable:
+a->17var_c->15
+ Output:
+15 
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617cExeStack:
+ b
+
+ symTable:
+a->17b->18var_c->15
+ Output:
+15 
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617cExeStack:
+ 
+ symTable:
+a->17b->18var_c->15
+ Output:
+15 18 
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617cExeStack:
+ a=2 + 3 * 5 then b=a + 1 then b
+var_c
+
+ read from id:1 into variable:var_c
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617cExeStack:
+ a=2 + 3 * 5 then b=a + 1 then b
+var_c
+
+ symTable:
+var_c->15
+ Output:
+
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617cExeStack:
+ a=2 + 3 * 5 then b=a + 1 then b
+
+ symTable:
+var_c->15
+ Output:
+15 
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617cExeStack:
+ b=a + 1 then b
+a=2 + 3 * 5
+
+ symTable:
+var_c->15
+ Output:
+15 
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617cExeStack:
+ b=a + 1 then b
+
+ symTable:
+a->17var_c->15
+ Output:
+15 
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617cExeStack:
+ b
+b=a + 1
+
+ symTable:
+a->17var_c->15
+ Output:
+15 
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617cExeStack:
+ b
+
+ symTable:
+a->17b->18var_c->15
+ Output:
+15 
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617cExeStack:
+ 
+ symTable:
+a->17b->18var_c->15
+ Output:
+15 18 
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617cExeStack:
+ var_c
+
+ read from id:1 into variable:var_c
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617cExeStack:
+ var_c
+
+ symTable:
+var_c->15
+ Output:
+
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617cExeStack:
+ 
+ symTable:
+var_c->15
+ Output:
+15 
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617cExeStack:
+ var_c
+
+ read from id:1 into variable:var_c
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617cExeStack:
+ var_c
+
+ symTable:
+var_c->15
+ Output:
+
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617cExeStack:
+ 
+ symTable:
+var_c->15
+ Output:
+15 
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617cExeStack:
+ var_c
+
+ read from id:1 into variable:var_c
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617cExeStack:
+ var_c
+
+ symTable:
+var_c->15
+ Output:
+
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617cExeStack:
+ 
+ symTable:
+var_c->15
+ Output:
+15 
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617cExeStack:
+ var_c
+
+ read from id:1 into variable:var_c
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617cExeStack:
+ var_c
+
+ symTable:
+var_c->15
+ Output:
+
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617cExeStack:
+ 
+ symTable:
+var_c->15
+ Output:
+15 
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617c
