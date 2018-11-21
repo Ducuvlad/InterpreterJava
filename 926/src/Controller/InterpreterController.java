@@ -7,10 +7,18 @@ import Repository.IRepo;
 import Repository.Repo;
 
 import java.io.IOException;
+import java.util.Collection;
+import java.util.Map;
+import java.util.stream.Collectors;
 
 public class InterpreterController {
     IRepo repo;
 
+    Map<Integer,Integer> conservativeGarbageCollector(Collection<Integer> symTableValues, Map<Integer,Integer> heap)
+    { return heap.entrySet().stream()
+            .filter(e->symTableValues.contains(e.getKey()) )
+            .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue));
+    }
     public InterpreterController(IRepo repo) {
         this.repo = repo;
     }
@@ -28,6 +36,7 @@ public class InterpreterController {
         while(!prg.getExeStack().isEmpty()){
             try {
                 oneStep(i);
+                prg.getHeap().setContent(conservativeGarbageCollector(prg.getSymTable().getContent().values(),prg.getHeap().getContent()));
             }catch (Exception e){throw new Exception(e.toString());}
 
             try {

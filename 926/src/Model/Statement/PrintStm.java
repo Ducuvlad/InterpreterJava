@@ -13,11 +13,14 @@ public class PrintStm implements IStatement {
         this.exp = exp;
     }
 
-    public ProgramState execute(ProgramState ps) {
+    public ProgramState execute(ProgramState ps) throws Exception {
         MyList<Integer> newoutput=ps.getOutput();
-        int i=ps.getSymTable().get(exp.toString());
-        newoutput.add(i);
-        ps.setOutput(newoutput);
+        try {
+            int i = exp.evaluate(ps.getSymTable(), ps.getHeap());
+            newoutput.add(i);
+            ps.setOutput(newoutput);
+        }catch (Exception e){throw new Exception("Cant eval");}
+
         return ps;
     }
     @Override

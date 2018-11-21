@@ -3,12 +3,11 @@ package View;
 import Controller.InterpreterController;
 import Model.Expression.ArithExp;
 import Model.Expression.ConstExp;
+import Model.Expression.HReadExp;
+import Model.Statement.HWriteExp;
 import Model.Expression.VarExp;
 import Model.ProgramState;
-import Model.Statement.AssignmentStm;
-import Model.Statement.CompoundStm;
-import Model.Statement.IStatement;
-import Model.Statement.PrintStm;
+import Model.Statement.*;
 import Repository.IRepo;
 import Repository.Repo;
 
@@ -30,7 +29,7 @@ class Interpreter {
         repo2.addstack(0,ex2);
         InterpreterController ctr2 = new InterpreterController(repo2);
 
-        IStatement ex3 = ex1;
+        IStatement ex3 = new CompoundStm(new newStm("v",new ConstExp(20)),new CompoundStm(new newStm("a",new ConstExp(22)),new CompoundStm(new HWriteExp("a",new ConstExp(30)),new PrintStm(new ConstExp(30)))));
         ProgramState prg3 = new ProgramState(ex3);
         IRepo repo3 = new Repo("log3.txt");
         repo3.add(prg3,0);

@@ -236,4 +236,65 @@ var_c->15
  Output:
 15 
  FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617cExeStack:
+ var_c
+
+ read from id:1 into variable:var_c
+
+ symTable:
+
+ Output:
+
+ FileTable: 
 1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617c
+ Heap: 
+ExeStack:
+ var_c
+
+ symTable:
+var_c->15
+ Output:
+
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617c
+ Heap: 
+ExeStack:
+ 
+ symTable:
+var_c->15
+ Output:
+15 
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617c
+ Heap: 
+ExeStack:
+ var_c
+
+ read from id:1 into variable:var_c
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617c
+ Heap: 
+ExeStack:
+ var_c
+
+ symTable:
+var_c->15
+ Output:
+
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617c
+ Heap: 
+ExeStack:
+ 
+ symTable:
+var_c->15
+ Output:
+15 
+ FileTable: 
+1->C:\Users\ducuv\Desktop\926\src\View\test.in java.io.BufferedReader@4554617c
+ Heap: 

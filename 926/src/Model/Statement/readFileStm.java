@@ -18,7 +18,7 @@ public class readFileStm implements IStatement {
 
     @Override
     public ProgramState execute(ProgramState ps) throws Exception {
-        Integer i=exp_file_id.evaluate(ps.getSymTable());
+        Integer i=exp_file_id.evaluate(ps.getSymTable(),ps.getHeap());
         MyDictionary<Integer,Pair<String, BufferedReader>> ftable= ps.getFtable();
         MyDictionary<String, Integer> st = ps.getSymTable();
         if(!ftable.contains(i))

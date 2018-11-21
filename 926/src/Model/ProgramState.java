@@ -11,6 +11,7 @@ public class ProgramState {
     private MyDictionary<String, Integer> symTable = new MyDictionary<>();
     private IStatement program;
     public MyDictionary<Integer,Pair<String, BufferedReader>> ftable=new MyDictionary<Integer,Pair<String, BufferedReader>>();
+    private IHeap heap=new Heap();
     public ProgramState(MyStack<IStatement> exeStack,
                         MyList<Integer> output,
                         MyDictionary<String, Integer>
@@ -64,6 +65,17 @@ public class ProgramState {
         this.output = output;
     }
 
+    public void setFtable(MyDictionary<Integer, Pair<String, BufferedReader>> ftable) {
+        this.ftable = ftable;
+    }
+
+    public IHeap getHeap() {
+        return heap;
+    }
+
+    public void setHeap(IHeap heap) {
+        this.heap = heap;
+    }
 
     void setProgram(IStatement prg) {
         this.program = prg;
@@ -79,7 +91,7 @@ public class ProgramState {
 
     @Override
     public String toString(){
-        String s= "ExeStack:\n "+exeStack.toString()+"\n symTable:\n"+symTable.toString()+"\n Output:\n"+ output.toString()+"\n FileTable: \n"+ ftable.toString();
+        String s= "ExeStack:\n "+exeStack.toString()+"\n symTable:\n"+symTable.toString()+"\n Output:\n"+ output.toString()+"\n FileTable: \n"+ ftable.toString()+"\n Heap: \n"+ heap.toString();
         return s;
     }
 }

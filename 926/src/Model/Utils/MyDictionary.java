@@ -1,6 +1,7 @@
 package Model.Utils;
 
 import java.util.HashMap;
+import java.util.Map;
 
 public class MyDictionary<K, V> implements IDictionary<K,V> {
 
@@ -28,6 +29,15 @@ public class MyDictionary<K, V> implements IDictionary<K,V> {
     @Override
     public V get(K key) {
         return dictionary.get(key);
+    }
+
+    @Override
+    public void setContent(Map<K,V> map){
+        this.dictionary=new HashMap<>(map);
+    }
+    @Override
+    public Map<K,V> getContent(){
+        return this.dictionary;
     }
 
     public String toString(){

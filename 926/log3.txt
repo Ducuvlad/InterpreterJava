@@ -126,3 +126,480 @@ a->17b->18
  Output:
 18 
  FileTable: 
+ExeStack:
+ New null=30
+New null=20
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ExeStack:
+ New a=30
+New v=20
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ExeStack:
+ New a=30
+
+ symTable:
+v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+1->20ExeStack:
+ 
+ symTable:
+a->2v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+1->202->30ExeStack:
+ New a=22 then Model.Statement.HWriteExp@4554617c
+New v=20
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ ExeStack:
+ New a=22 then Model.Statement.HWriteExp@4554617c
+
+ symTable:
+v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 ExeStack:
+ Model.Statement.HWriteExp@4554617c
+New a=22
+
+ symTable:
+v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 ExeStack:
+ Model.Statement.HWriteExp@4554617c
+
+ symTable:
+a->2v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->22 ExeStack:
+ 
+ symTable:
+a->2v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 ExeStack:
+ New a=22 then New a=30
+New v=20
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ ExeStack:
+ New a=22 then New a=30
+
+ symTable:
+v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 ExeStack:
+ New a=30
+New a=22
+
+ symTable:
+v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 ExeStack:
+ New a=30
+
+ symTable:
+a->2v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->22 ExeStack:
+ 
+ symTable:
+a->2v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 ExeStack:
+ New a=22 then Write a=30 then  Reada 
+New v=20
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ ExeStack:
+ New a=22 then Write a=30 then  Reada 
+
+ symTable:
+v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 ExeStack:
+ Write a=30 then  Reada 
+New a=22
+
+ symTable:
+v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 ExeStack:
+ Write a=30 then  Reada 
+
+ symTable:
+a->2v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->22 ExeStack:
+  Reada 
+Write a=30
+
+ symTable:
+a->2v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->22 ExeStack:
+  Reada 
+
+ symTable:
+a->2v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 ExeStack:
+ New a=22 then Write a=30 then  Read a 
+New v=20
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ ExeStack:
+ New a=22 then Write a=30 then  Read a 
+
+ symTable:
+v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 ExeStack:
+ Write a=30 then  Read a 
+New a=22
+
+ symTable:
+v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 ExeStack:
+ Write a=30 then  Read a 
+
+ symTable:
+a->2v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->22 ExeStack:
+  Read a 
+Write a=30
+
+ symTable:
+a->2v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->22 ExeStack:
+  Read a 
+
+ symTable:
+a->2v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 ExeStack:
+ New a=22 then Write a=30 then 30
+New v=20
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ ExeStack:
+ New a=22 then Write a=30 then 30
+
+ symTable:
+v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 ExeStack:
+ Write a=30 then 30
+New a=22
+
+ symTable:
+v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 ExeStack:
+ Write a=30 then 30
+
+ symTable:
+a->2v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->22 ExeStack:
+ 30
+Write a=30
+
+ symTable:
+a->2v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->22 ExeStack:
+ 30
+
+ symTable:
+a->2v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 ExeStack:
+ New a=22 then Write a=30 then 30
+New v=20
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ ExeStack:
+ New a=22 then Write a=30 then 30
+
+ symTable:
+v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 ExeStack:
+ Write a=30 then 30
+New a=22
+
+ symTable:
+v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 ExeStack:
+ Write a=30 then 30
+
+ symTable:
+a->2v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->22 ExeStack:
+ 30
+Write a=30
+
+ symTable:
+a->2v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->22 ExeStack:
+ 30
+
+ symTable:
+a->2v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 ExeStack:
+ 
+ symTable:
+a->2v->1
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 ExeStack:
+ New a=22 then Write a=30 then 30
+New v=20
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ ExeStack:
+ New a=22 then Write a=30 then 30
+
+ symTable:
+v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 ExeStack:
+ Write a=30 then 30
+New a=22
+
+ symTable:
+v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 ExeStack:
+ Write a=30 then 30
+
+ symTable:
+a->2v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->22 ExeStack:
+ 30
+Write a=30
+
+ symTable:
+a->2v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->22 ExeStack:
+ 30
+
+ symTable:
+a->2v->1
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 ExeStack:
+ 
+ symTable:
+a->2v->1
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 

@@ -19,7 +19,7 @@ public class IfStm implements IStatement {
         MyStack<IStatement> exeStack = ps.getExeStack();
         MyDictionary<String, Integer> st = ps.getSymTable();
         try {
-            if (exp.evaluate(st) == 0)
+            if (exp.evaluate(st,ps.getHeap()) == 0)
                 exeStack.push(this.ifst);
             else
                 exeStack.push(this.elsest2);

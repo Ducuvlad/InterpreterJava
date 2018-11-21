@@ -63,3 +63,64 @@ x->11
  Output:
 11 
  FileTable: 
+ExeStack:
+ x
+x=11
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ ExeStack:
+ x
+
+ symTable:
+x->11
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ ExeStack:
+ 
+ symTable:
+x->11
+ Output:
+11 
+ FileTable: 
+
+ Heap: 
+ ExeStack:
+ x
+x=11
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ ExeStack:
+ x
+
+ symTable:
+x->11
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ ExeStack:
+ 
+ symTable:
+x->11
+ Output:
+11 
+ FileTable: 
+
+ Heap: 
+ 

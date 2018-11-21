@@ -17,7 +17,7 @@ public class closeRFile implements IStatement {
 
     @Override
     public ProgramState execute(ProgramState ps) throws Exception {
-        Integer i=exp_file_id.evaluate(ps.getSymTable());
+        Integer i=exp_file_id.evaluate(ps.getSymTable(),ps.getHeap());
         MyDictionary<Integer,Pair<String, BufferedReader>> ftable= ps.getFtable();
         if(ftable.contains(i)) throw new Exception("no file found");
         Pair<String, BufferedReader> pair=ftable.get(i);

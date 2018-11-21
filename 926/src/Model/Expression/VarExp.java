@@ -1,5 +1,7 @@
 package Model.Expression;
 
+import Model.Utils.Heap;
+import Model.Utils.IHeap;
 import Model.Utils.ISymTable;
 import Model.Utils.MyDictionary;
 
@@ -10,7 +12,7 @@ public class VarExp implements IExpression {
         this.name = name;
     }
 
-    public int evaluate(MyDictionary<String, Integer> st) {
+    public int evaluate(MyDictionary<String, Integer> st, IHeap heap) {
         if (st.contains(this.name)) {
             return st.get(this.name);
         } else {

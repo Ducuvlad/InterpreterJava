@@ -39,3 +39,106 @@ a->17b->18
  Output:
 18 
  FileTable: 
+ExeStack:
+ b=a + 1 then b
+a=2 + 3 * 5
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ ExeStack:
+ b=a + 1 then b
+
+ symTable:
+a->17
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ ExeStack:
+ b
+b=a + 1
+
+ symTable:
+a->17
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ ExeStack:
+ b
+
+ symTable:
+a->17b->18
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ ExeStack:
+ b=a + 1 then b
+a=2 + 3 * 5
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ ExeStack:
+ b=a + 1 then b
+
+ symTable:
+a->17
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ ExeStack:
+ b
+b=a + 1
+
+ symTable:
+a->17
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ ExeStack:
+ b
+
+ symTable:
+a->17b->18
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ 
