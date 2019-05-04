@@ -1,0 +1,2372 @@
+#################ID: 1
+ExeStack:
+ a=2 + 3 * 5 then b=a + 1 then Print(b)
+x=11 then Print(x)
+New v=20 then New a=22 then Write a=30 then Print(30)
+
+ close id:0
+
+ open id:0 named:file1.txt then 
+ read from id:0 into variable:c then Print(c)
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ a=2 + 3 * 5 then b=a + 1 then Print(b)
+x=11 then Print(x)
+New v=20 then New a=22 then Write a=30 then Print(30)
+
+ close id:0
+Print(c)
+
+ open id:0 named:file1.txt then 
+ read from id:0 into variable:c
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ a=2 + 3 * 5 then b=a + 1 then Print(b)
+x=11 then Print(x)
+New v=20 then New a=22 then Write a=30 then Print(30)
+
+ close id:0
+Print(c)
+
+ read from id:0 into variable:c
+
+ open id:0 named:file1.txt
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ a=2 + 3 * 5 then b=a + 1 then Print(b)
+x=11 then Print(x)
+New v=20 then New a=22 then Write a=30 then Print(30)
+
+ close id:0
+
+ open id:0 named:file1.txt then 
+ read from id:0 into variable:c then Print(c)
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ a=2 + 3 * 5 then b=a + 1 then Print(b)
+x=11 then Print(x)
+New v=20 then New a=22 then Write a=30 then Print(30)
+
+ close id:0
+Print(c)
+
+ open id:0 named:file1.txt then 
+ read from id:0 into variable:c
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ a=2 + 3 * 5 then b=a + 1 then Print(b)
+x=11 then Print(x)
+New v=20 then New a=22 then Write a=30 then Print(30)
+
+ close id:0
+Print(c)
+
+ read from id:0 into variable:c
+
+ open id:0 named:file1.txt
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ a=2 + 3 * 5 then b=a + 1 then Print(b)
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+a=2 + 3 * 5
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+a=2 + 3 * 5
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+
+ symTable:
+a->17
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+
+ symTable:
+a->17
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+b=a + 1
+
+ symTable:
+a->17
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+b=a + 1
+
+ symTable:
+a->17
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+
+ symTable:
+a->17b->18
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+
+ symTable:
+a->17b->18
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ a=2 + 3 * 5 then b=a + 1 then Print(b)
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+a=2 + 3 * 5
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+a=2 + 3 * 5
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+
+ symTable:
+a->17
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+
+ symTable:
+a->17
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+b=a + 1
+
+ symTable:
+a->17
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+b=a + 1
+
+ symTable:
+a->17
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+
+ symTable:
+a->17b->18
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+
+ symTable:
+a->17b->18
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ a=2 + 3 * 5 then b=a + 1 then Print(b)
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+a=2 + 3 * 5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+a=2 + 3 * 5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+b=a + 1
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+b=a + 1
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+
+ symTable:
+a->17b->18
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+
+ symTable:
+a->17b->18
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ a=2 + 3 * 5 then b=a + 1 then Print(b)
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+a=2 + 3 * 5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+a=2 + 3 * 5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+b=a + 1
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+b=a + 1
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+
+ symTable:
+a->17b->18
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+
+ symTable:
+a->17b->18
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ a=2 + 3 * 5 then b=a + 1 then Print(b)
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+a=2 + 3 * 5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+a=2 + 3 * 5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+b=a + 1
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+b=a + 1
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+
+ symTable:
+a->17b->18
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+
+ symTable:
+a->17b->18
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ a=2 + 3 * 5 then b=a + 1 then Print(b)
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+a=2 + 3 * 5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+a=2 + 3 * 5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+b=a + 1
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+b=a + 1
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+
+ symTable:
+a->17b->18
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+
+ symTable:
+a->17b->18
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ a=2 + 3 * 5 then b=a + 1 then Print(b)
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+a=2 + 3 * 5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+a=2 + 3 * 5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+b=a + 1
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+b=a + 1
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+
+ symTable:
+a->17b->18
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+
+ symTable:
+a->17b->18
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ a=2 + 3 * 5 then b=a + 1 then Print(b)
+
+ symTable:
+
+
+ Output:
+10 30 32 30 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+a=2 + 3 * 5
+
+ symTable:
+
+
+ Output:
+10 30 32 30 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+a=2 + 3 * 5
+
+ symTable:
+
+
+ Output:
+10 30 32 30 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+
+ symTable:
+a->17
+
+ Output:
+10 30 32 30 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+
+ symTable:
+a->17
+
+ Output:
+10 30 32 30 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 1
+ExeStack:
+ Print(b)
+b=a + 1
+
+ symTable:
+a->17
+
+ Output:
+10 30 32 30 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 1
+ExeStack:
+ Print(b)
+b=a + 1
+
+ symTable:
+a->17
+
+ Output:
+10 30 32 30 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 1
+ExeStack:
+ Print(b)
+
+ symTable:
+a->17b->18
+
+ Output:
+10 30 32 30 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 1
+ExeStack:
+ Print(b)
+
+ symTable:
+a->17b->18
+
+ Output:
+10 30 32 30 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+10 30 32 30 18 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+10 30 32 30 18 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+10 30 32 30 18 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+10 30 32 30 18 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+10 30 32 30 18 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+10 30 32 30 18 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+10 30 32 30 18 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 1
+ExeStack:
+ a=2 + 3 * 5 then b=a + 1 then Print(b)
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+a=2 + 3 * 5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+a=2 + 3 * 5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+b=a + 1
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+b=a + 1
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+
+ symTable:
+a->17b->18
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+
+ symTable:
+a->17b->18
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ a=2 + 3 * 5 then b=a + 1 then Print(b)
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+a=2 + 3 * 5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+a=2 + 3 * 5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+b=a + 1
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+b=a + 1
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+
+ symTable:
+a->17b->18
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+
+ symTable:
+a->17b->18
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ a=2 + 3 * 5 then b=a + 1 then Print(b)
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+a=2 + 3 * 5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ a=2 + 3 * 5 then b=a + 1 then Print(b)
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+a=2 + 3 * 5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ a=2 + 3 * 5 then b=a + 1 then Print(b)
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+a=2 + 3 * 5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+a=2 + 3 * 5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ b=a + 1 then Print(b)
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+b=a + 1
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+b=a + 1
+
+ symTable:
+a->17
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+
+ symTable:
+a->17b->18
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(b)
+
+ symTable:
+a->17b->18
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->17b->18
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ 

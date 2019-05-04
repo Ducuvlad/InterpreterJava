@@ -1,0 +1,11763 @@
+#################ID: 1
+ExeStack:
+ New v=20 then New a=22 then Write a=30 then Print(30)
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ New a=22 then Write a=30 then Print(30)
+New v=20
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ New v=20 then New a=22 then Write a=30 then Print(30)
+
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ New a=22 then Write a=30 then Print(30)
+New v=20
+
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ New a=22 then Write a=30 then Print(30)
+New v=20
+
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ New a=22 then Write a=30 then Print(30)
+
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ New a=22 then Write a=30 then Print(30)
+
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Write a=30 then Print(30)
+New a=22
+
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Write a=30 then Print(30)
+New a=22
+
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Write a=30 then Print(30)
+
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Write a=30 then Print(30)
+
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(30)
+Write a=30
+
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(30)
+Write a=30
+
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(30)
+
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Print(30)
+
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+
+ Output:
+18 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ New v=20 then New a=22 then Write a=30 then Print(30)
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ New a=22 then Write a=30 then Print(30)
+New v=20
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ New a=22 then Write a=30 then Print(30)
+New v=20
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ New a=22 then Write a=30 then Print(30)
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ New a=22 then Write a=30 then Print(30)
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Write a=30 then Print(30)
+New a=22
+
+ symTable:
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ New v=20 then New a=22 then Write a=30 then Print(30)
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ New a=22 then Write a=30 then Print(30)
+New v=20
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ New a=22 then Write a=30 then Print(30)
+New v=20
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ New a=22 then Write a=30 then Print(30)
+
+ symTable:
+v->1
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 #################ID: 1
+ExeStack:
+ New a=22 then Write a=30 then Print(30)
+
+ symTable:
+v->1
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 #################ID: 1
+ExeStack:
+ Write a=30 then Print(30)
+New a=22
+
+ symTable:
+v->1
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 #################ID: 1
+ExeStack:
+ Write a=30 then Print(30)
+New a=22
+
+ symTable:
+v->1
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 #################ID: 1
+ExeStack:
+ Write a=30 then Print(30)
+
+ symTable:
+a->2v->1
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->22 #################ID: 1
+ExeStack:
+ Write a=30 then Print(30)
+
+ symTable:
+a->2v->1
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->22 #################ID: 1
+ExeStack:
+ Print(30)
+Write a=30
+
+ symTable:
+a->2v->1
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->22 #################ID: 1
+ExeStack:
+ Print(30)
+Write a=30
+
+ symTable:
+a->2v->1
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->22 #################ID: 1
+ExeStack:
+ Print(30)
+
+ symTable:
+a->2v->1
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ Print(30)
+
+ symTable:
+a->2v->1
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ New v=20 then New a=22 then Write a=30 then Print(30)
+
+ symTable:
+
+
+ Output:
+8 80 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ New a=22 then Write a=30 then Print(30)
+New v=20
+
+ symTable:
+
+
+ Output:
+8 80 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ New a=22 then Write a=30 then Print(30)
+New v=20
+
+ symTable:
+
+
+ Output:
+8 80 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ New a=22 then Write a=30 then Print(30)
+
+ symTable:
+v->1
+
+ Output:
+8 80 
+ FileTable: 
+
+ Heap: 
+ 1->20 #################ID: 1
+ExeStack:
+ New a=22 then Write a=30 then Print(30)
+
+ symTable:
+v->1
+
+ Output:
+8 80 
+ FileTable: 
+
+ Heap: 
+ 1->20 #################ID: 1
+ExeStack:
+ Write a=30 then Print(30)
+New a=22
+
+ symTable:
+v->1
+
+ Output:
+8 80 
+ FileTable: 
+
+ Heap: 
+ 1->20 #################ID: 1
+ExeStack:
+ Write a=30 then Print(30)
+New a=22
+
+ symTable:
+v->1
+
+ Output:
+8 80 
+ FileTable: 
+
+ Heap: 
+ 1->20 #################ID: 1
+ExeStack:
+ Write a=30 then Print(30)
+
+ symTable:
+a->2v->1
+
+ Output:
+8 80 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->22 #################ID: 1
+ExeStack:
+ Write a=30 then Print(30)
+
+ symTable:
+a->2v->1
+
+ Output:
+8 80 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->22 #################ID: 1
+ExeStack:
+ Print(30)
+Write a=30
+
+ symTable:
+a->2v->1
+
+ Output:
+8 80 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->22 #################ID: 1
+ExeStack:
+ Print(30)
+Write a=30
+
+ symTable:
+a->2v->1
+
+ Output:
+8 80 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->22 #################ID: 1
+ExeStack:
+ Print(30)
+
+ symTable:
+a->2v->1
+
+ Output:
+8 80 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ Print(30)
+
+ symTable:
+a->2v->1
+
+ Output:
+8 80 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+8 80 30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+8 80 30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+8 80 30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+8 80 30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+8 80 30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+8 80 30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+8 80 30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+8 80 30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+8 80 30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ New v=20 then New a=22 then Write a=30 then Print(30)
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ New a=22 then Write a=30 then Print(30)
+New v=20
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ New a=22 then Write a=30 then Print(30)
+New v=20
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ New a=22 then Write a=30 then Print(30)
+
+ symTable:
+v->1
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 #################ID: 1
+ExeStack:
+ New a=22 then Write a=30 then Print(30)
+
+ symTable:
+v->1
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 #################ID: 1
+ExeStack:
+ Write a=30 then Print(30)
+New a=22
+
+ symTable:
+v->1
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 #################ID: 1
+ExeStack:
+ Write a=30 then Print(30)
+New a=22
+
+ symTable:
+v->1
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 #################ID: 1
+ExeStack:
+ Write a=30 then Print(30)
+
+ symTable:
+a->2v->1
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->22 #################ID: 1
+ExeStack:
+ Write a=30 then Print(30)
+
+ symTable:
+a->2v->1
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->22 #################ID: 1
+ExeStack:
+ Print(30)
+Write a=30
+
+ symTable:
+a->2v->1
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->22 #################ID: 1
+ExeStack:
+ Print(30)
+Write a=30
+
+ symTable:
+a->2v->1
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->22 #################ID: 1
+ExeStack:
+ Print(30)
+
+ symTable:
+a->2v->1
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ Print(30)
+
+ symTable:
+a->2v->1
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->2v->1
+
+ Output:
+30 
+ FileTable: 
+
+ Heap: 
+ 1->20 2->30 #################ID: 1
+ExeStack:
+ v=2 then w=5 then Call procedure  then Print(v) then FORK( Call procedure  then FORK( Call procedure  )  ) 
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure  then Print(v) then FORK( Call procedure  then FORK( Call procedure  )  ) 
+v=2 then w=5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure  then Print(v) then FORK( Call procedure  then FORK( Call procedure  )  ) 
+v=2 then w=5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure  then Print(v) then FORK( Call procedure  then FORK( Call procedure  )  ) 
+w=5
+v=2
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure  then Print(v) then FORK( Call procedure  then FORK( Call procedure  )  ) 
+w=5
+v=2
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure  then Print(v) then FORK( Call procedure  then FORK( Call procedure  )  ) 
+w=5
+
+ symTable:
+v->2
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure  then Print(v) then FORK( Call procedure  then FORK( Call procedure  )  ) 
+w=5
+
+ symTable:
+v->2
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure  then Print(v) then FORK( Call procedure  then FORK( Call procedure  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure  then Print(v) then FORK( Call procedure  then FORK( Call procedure  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Call procedure  then Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Call procedure  then Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Call procedure 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Call procedure 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Return
+v=a + b then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Return
+v=a + b then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Return
+Print(v)
+v=a + b
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Return
+Print(v)
+v=a + b
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Return
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Return
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ Call procedure  then FORK( Call procedure  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ Call procedure  then FORK( Call procedure  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure  ) 
+Call procedure 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure  ) 
+Call procedure 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure  ) 
+Return
+v=a * b then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure  ) 
+Return
+v=a * b then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure  ) 
+Return
+Print(v)
+v=a * b
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure  ) 
+Return
+Print(v)
+v=a * b
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure  ) 
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure  ) 
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure  ) 
+Return
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure  ) 
+Return
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Call procedure 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Call procedure 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+v=a + b then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+v=a + b then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+Print(v)
+v=a + b
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+Print(v)
+v=a + b
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ v=2 then w=5 then Call procedure  then Print(v) then FORK( Call procedure  then FORK( Call procedure  )  ) 
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure  then Print(v) then FORK( Call procedure  then FORK( Call procedure  )  ) 
+v=2 then w=5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure  then Print(v) then FORK( Call procedure  then FORK( Call procedure  )  ) 
+v=2 then w=5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure  then Print(v) then FORK( Call procedure  then FORK( Call procedure  )  ) 
+w=5
+v=2
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure  then Print(v) then FORK( Call procedure  then FORK( Call procedure  )  ) 
+w=5
+v=2
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure  then Print(v) then FORK( Call procedure  then FORK( Call procedure  )  ) 
+w=5
+
+ symTable:
+v->2
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure  then Print(v) then FORK( Call procedure  then FORK( Call procedure  )  ) 
+w=5
+
+ symTable:
+v->2
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure  then Print(v) then FORK( Call procedure  then FORK( Call procedure  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure  then Print(v) then FORK( Call procedure  then FORK( Call procedure  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Call procedure  then Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Call procedure  then Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Call procedure 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Call procedure 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Return
+v=a + b then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Return
+v=a + b then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Return
+Print(v)
+v=a + b
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Return
+Print(v)
+v=a + b
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Return
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ v=2 then w=5 then Call procedure  then Print(v) then FORK( Call procedure  then FORK( Call procedure  )  ) 
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure  then Print(v) then FORK( Call procedure  then FORK( Call procedure  )  ) 
+v=2 then w=5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure  then Print(v) then FORK( Call procedure  then FORK( Call procedure  )  ) 
+v=2 then w=5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure  then Print(v) then FORK( Call procedure  then FORK( Call procedure  )  ) 
+w=5
+v=2
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure  then Print(v) then FORK( Call procedure  then FORK( Call procedure  )  ) 
+w=5
+v=2
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure  then Print(v) then FORK( Call procedure  then FORK( Call procedure  )  ) 
+w=5
+
+ symTable:
+v->2
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure  then Print(v) then FORK( Call procedure  then FORK( Call procedure  )  ) 
+w=5
+
+ symTable:
+v->2
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure  then Print(v) then FORK( Call procedure  then FORK( Call procedure  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure  then Print(v) then FORK( Call procedure  then FORK( Call procedure  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Call procedure  then Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Call procedure  then Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Call procedure 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Call procedure 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Return
+v=a + b then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Return
+v=a + b then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Return
+Print(v)
+v=a + b
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Return
+Print(v)
+v=a + b
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Return
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+Return
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure  then FORK( Call procedure  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ Call procedure  then FORK( Call procedure  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ Call procedure  then FORK( Call procedure  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure  ) 
+Call procedure 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure  ) 
+Call procedure 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure  ) 
+Return
+v=a * b then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure  ) 
+Return
+v=a * b then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure  ) 
+Return
+Print(v)
+v=a * b
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure  ) 
+Return
+Print(v)
+v=a * b
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure  ) 
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure  ) 
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure  ) 
+Return
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure  ) 
+Return
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Call procedure 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Call procedure 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+v=a + b then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+v=a + b then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+Print(v)
+v=a + b
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+Print(v)
+v=a + b
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ v=2 then w=5 then Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+v=2 then w=5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+v=2 then w=5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+w=5
+v=2
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+w=5
+v=2
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+w=5
+
+ symTable:
+v->2
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+w=5
+
+ symTable:
+v->2
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Call procedure sum  then Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Call procedure sum  then Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Call procedure sum 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Call procedure sum 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+v=a + b then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+v=a + b then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+Print(v)
+v=a + b
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+Print(v)
+v=a + b
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ Call procedure prod  then FORK( Call procedure sum  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ Call procedure prod  then FORK( Call procedure sum  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Call procedure prod 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Call procedure prod 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+v=a * b then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+v=a * b then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+Print(v)
+v=a * b
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+Print(v)
+v=a * b
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Call procedure sum 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Call procedure sum 
+
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+v=a + b then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+v=a + b then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+Print(v)
+v=a + b
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+2 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ v=2 then w=5 then Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+v=2 then w=5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+v=2 then w=5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+w=5
+v=2
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+w=5
+v=2
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+w=5
+
+ symTable:
+v->2
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+w=5
+
+ symTable:
+v->2
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Call procedure sum  then Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Call procedure sum  then Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Call procedure sum 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Call procedure sum 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+v=v + w then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+v=v + w then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+Print(v)
+v=v + w
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+Print(v)
+v=v + w
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ Call procedure prod  then FORK( Call procedure sum  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ Call procedure prod  then FORK( Call procedure sum  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Call procedure prod 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Call procedure prod 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+v=a * b then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+v=a * b then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+Print(v)
+v=a * b
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+Print(v)
+v=a * b
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Call procedure sum 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Call procedure sum 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+v=v + w then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+v=v + w then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+Print(v)
+v=v + w
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+Print(v)
+v=v + w
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+7 2 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+7 2 2 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+7 2 2 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 2 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ v=2 then w=5 then Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+v=2 then w=5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+v=2 then w=5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+w=5
+v=2
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+w=5
+v=2
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+w=5
+
+ symTable:
+v->2
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+w=5
+
+ symTable:
+v->2
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Call procedure sum  then Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Call procedure sum  then Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Call procedure sum 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Call procedure sum 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+v=v + w then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+v=v + w then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+Print(v)
+v=v + w
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+Print(v)
+v=v + w
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ Call procedure prod  then FORK( Call procedure sum  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ Call procedure prod  then FORK( Call procedure sum  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Call procedure prod 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Call procedure prod 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+v=v * w then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+v=v * w then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+Print(v)
+v=v * w
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+Print(v)
+v=v * w
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->10w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->10w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+
+ symTable:
+v->2w->5
+v->10w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+
+ symTable:
+v->2w->5
+v->10w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Call procedure sum 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Call procedure sum 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+v=v + w then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+v=v + w then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+Print(v)
+v=v + w
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+Print(v)
+v=v + w
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ v=2 then w=5 then Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+v=2 then w=5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+v=2 then w=5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+w=5
+v=2
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+w=5
+v=2
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+w=5
+
+ symTable:
+v->2
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+w=5
+
+ symTable:
+v->2
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Call procedure sum  then Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Call procedure sum  then Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Call procedure sum 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Call procedure sum 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+v=v + w then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+v=v + w then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+Print(v)
+v=v + w
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+Print(v)
+v=v + w
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ Call procedure prod  then FORK( Call procedure sum  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ Call procedure prod  then FORK( Call procedure sum  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Call procedure prod 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Call procedure prod 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+v=v * w then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+v=v * w then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+Print(v)
+v=v * w
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+Print(v)
+v=v * w
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->10w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->10w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+
+ symTable:
+v->2w->5
+v->10w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+
+ symTable:
+v->2w->5
+v->10w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Call procedure sum 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Call procedure sum 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+v=v + w then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+v=v + w then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+Print(v)
+v=v + w
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+Print(v)
+v=v + w
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ v=2 then w=5 then Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+v=2 then w=5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+v=2 then w=5
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+w=5
+v=2
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+w=5
+v=2
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+w=5
+
+ symTable:
+v->2
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+w=5
+
+ symTable:
+v->2
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ Call procedure sum  then Print(v) then FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Call procedure sum  then Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Call procedure sum  then Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Call procedure sum 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Call procedure sum 
+
+ symTable:
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+v=v + w then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+v=v + w then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+Print(v)
+v=v + w
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+Print(v)
+v=v + w
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+Return
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+Print(v)
+
+ symTable:
+v->2w->5
+
+ Output:
+7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Call procedure prod  then FORK( Call procedure sum  )  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ Call procedure prod  then FORK( Call procedure sum  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ Call procedure prod  then FORK( Call procedure sum  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Call procedure prod 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Call procedure prod 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+v=v * w then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+v=v * w then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+Print(v)
+v=v * w
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+Print(v)
+v=v * w
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->10w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->10w->5
+
+ Output:
+7 2 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+
+ symTable:
+v->2w->5
+v->10w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+Return
+
+ symTable:
+v->2w->5
+v->10w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ FORK( Call procedure sum  ) 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Call procedure sum 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Call procedure sum 
+
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+v=v + w then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+v=v + w then Print(v)
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+Print(v)
+v=v + w
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+Print(v)
+v=v + w
+
+ symTable:
+v->2w->5
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+Print(v)
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+7 2 10 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ Return
+
+ symTable:
+v->2w->5
+v->7w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 2
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ #################ID: 3
+ExeStack:
+ 
+ symTable:
+v->2w->5
+
+ Output:
+7 2 10 7 
+ FileTable: 
+
+ Heap: 
+ 

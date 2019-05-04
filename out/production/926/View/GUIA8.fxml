@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane prefHeight="830.0" prefWidth="1607.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="View.GUIController">
+  <children>
+    <SplitPane dividerPositions="0.2536231884057971" focusTraversable="true" layoutX="0.0" layoutY="0.0" orientation="VERTICAL" prefHeight="830.0" prefWidth="1055.0">
+      <items>
+        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+          <children>
+            <SplitPane dividerPositions="0.8272900763358778" focusTraversable="true" layoutX="0.0" layoutY="0.0" prefHeight="328.0" prefWidth="1050.0">
+              <items>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="326.0" prefWidth="541.0">
+                  <children>
+                    <ListView fx:id="listaprg" layoutX="0.0" layoutY="36.0" prefHeight="170.0" prefWidth="864.0" />
+                    <Button fx:id="buttonSelect" layoutX="393.0" layoutY="4.0" mnemonicParsing="false" onAction="#clickSelect" text="Select" />
+                  </children>
+                </AnchorPane>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="326.0" prefWidth="189.0">
+                  <children>
+                    <Label layoutX="0.0" layoutY="101.0" text="Number of programs" />
+                    <TextField editable="false" layoutX="60.0" layoutY="148.0" prefWidth="58.0" promptText="" text="4" />
+                  </children>
+                </AnchorPane>
+              </items>
+            </SplitPane>
+          </children>
+        </AnchorPane>
+        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="615.0" prefWidth="1118.0">
+          <children>
+            <TableView id="fxtableview" fx:id="heapTable" layoutX="40.0" layoutY="88.0" prefHeight="328.0" prefWidth="189.0">
+              <columns>
+                <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="93.0" text="address" fx:id="addCol" />
+                <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="93.0" text="value" fx:id="heapValCol" />
+              </columns>
+            </TableView>
+            <Label layoutX="114.0" layoutY="64.0" text="Heap" />
+            <Label layoutX="913.0" layoutY="64.0" text="Output" />
+            <Label layoutX="288.0" layoutY="64.0" text="File table" />
+            <Label layoutX="624.0" layoutY="64.0" text="Prg id" />
+            <Label layoutX="476.0" layoutY="64.0" text="Symtable" />
+            <Label layoutX="746.0" layoutY="64.0" text="ExeStack" />
+            <ListView fx:id="fxoutput" layoutX="888.0" layoutY="88.0" prefHeight="328.0" prefWidth="107.0" />
+            <ListView fx:id="fxprgid" layoutX="618.0" layoutY="88.0" onMouseClicked="#onClickExeStack" prefHeight="328.0" prefWidth="58.0" />
+            <ListView fx:id="fxexestack" layoutX="686.0" layoutY="88.0" prefHeight="328.0" prefWidth="189.0" />
+            <TableView id="fxfiletable" fx:id="fileTable" layoutX="229.0" layoutY="88.0" prefHeight="328.0" prefWidth="189.0">
+              <columns>
+                <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="93.0" text="identifier" fx:id="identCol" />
+                <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="93.0" text="filename" fx:id="fNameCol" />
+              </columns>
+            </TableView>
+            <TableView id="fxsymtable" fx:id="symTable" layoutX="418.0" layoutY="88.0" prefHeight="328.0" prefWidth="189.0">
+              <columns>
+                <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="93.0" text="varname" fx:id="vNameCol" />
+                <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="93.0" text="value" fx:id="symValCol" />
+              </columns>
+            </TableView>
+            <Button layoutX="382.0" layoutY="24.0" mnemonicParsing="false" onAction="#clickOneStepForAll" text="OneStepForAll" />
+            <TableView fx:id="ProcTable" layoutX="557.0" layoutY="0.0" prefHeight="64.0" prefWidth="482.0">
+              <columns>
+                <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="87.0" text="Name" fx:id="FxProcName" />
+                <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="397.0" text="Variables and p. body" fx:id="fxVarsAndBody" />
+              </columns>
+            </TableView>
+          </children>
+        </AnchorPane>
+      </items>
+    </SplitPane>
+  </children>
+</Pane>
