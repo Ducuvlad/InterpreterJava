@@ -16,7 +16,9 @@ import java.io.BufferedReader;
 
 class Interpreter {
     public static void main(String[] args) {
-
+        /*
+        Command line start point with text menu
+         */
         MyStack<IStatement> exeStack = new MyStack<>();
         MyList<Integer> output = new MyList<>();
         MyDictionary<String, Integer> symTable = new MyDictionary<>();

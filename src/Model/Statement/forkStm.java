@@ -11,7 +11,7 @@ public class forkStm implements IStatement {
     public forkStm(IStatement st1) {
         this.st1 = st1;
     }
-
+    //create and return new ProgramState
     @Override
     public ProgramState execute(ProgramState ps) throws Exception {
         MyStack<IStatement> exeStack=new MyStack<IStatement>(); //different exe stacks

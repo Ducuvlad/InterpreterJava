@@ -4,6 +4,8 @@ import Model.Utils.IHeap;
 import Model.Utils.MyDictionary;
 
 public class BooleanExp implements IExpression {
+    //returns 1 or 0 depending on the truth value returned by the
+    // operator used on the evaluation of op1 and the evaluation of op2
     private IExpression op1, op2;
     private String operator;
 

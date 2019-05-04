@@ -5,6 +5,7 @@ import Model.Utils.IExeStack;
 import Model.Utils.MyStack;
 
 public class CompoundStm implements IStatement {
+    //Used to make complex IStatements,execute will push statement st2 then st1 on the execution Stack
     private IStatement st1, st2;
 
     public CompoundStm(IStatement st1, IStatement st2) {

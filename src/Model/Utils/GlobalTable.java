@@ -7,6 +7,7 @@ import java.util.List;
 import java.util.Map;
 
 public class GlobalTable implements IGlobalTable {
+    //Map of nameOfProcedure->list of localVariableNames , procedure execution statement
     HashMap<String,Pair<List<String>, IStatement>> HM=new HashMap<String,Pair<List<String>, IStatement>>();
     @Override
     public void setContent(HashMap<String,Pair<List<String>, IStatement>> map){

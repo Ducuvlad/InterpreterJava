@@ -3432,4 +3432,412 @@ v=10 then New a=22
  FileTable: 
 
  Heap: 
+ #################ID: 1
+ExeStack:
+ v=10 then New a=22 then FORK( Write a=30 then v=32 then Print(v) then Print( Read a ) )  then Print(v) then Print( Read a )
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Write a=30 then v=32 then Print(v) then Print( Read a ) )  then Print(v) then Print( Read a )
+v=10 then New a=22
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Write a=30 then v=32 then Print(v) then Print( Read a ) )  then Print(v) then Print( Read a )
+v=10 then New a=22
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Write a=30 then v=32 then Print(v) then Print( Read a ) )  then Print(v) then Print( Read a )
+New a=22
+v=10
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Write a=30 then v=32 then Print(v) then Print( Read a ) )  then Print(v) then Print( Read a )
+New a=22
+v=10
+
+ symTable:
+
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Write a=30 then v=32 then Print(v) then Print( Read a ) )  then Print(v) then Print( Read a )
+New a=22
+
+ symTable:
+v->10
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Write a=30 then v=32 then Print(v) then Print( Read a ) )  then Print(v) then Print( Read a )
+New a=22
+
+ symTable:
+v->10
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ #################ID: 1
+ExeStack:
+ FORK( Write a=30 then v=32 then Print(v) then Print( Read a ) )  then Print(v) then Print( Read a )
+
+ symTable:
+a->1v->10
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->22 #################ID: 1
+ExeStack:
+ FORK( Write a=30 then v=32 then Print(v) then Print( Read a ) )  then Print(v) then Print( Read a )
+
+ symTable:
+a->1v->10
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->22 #################ID: 1
+ExeStack:
+ Print(v) then Print( Read a )
+FORK( Write a=30 then v=32 then Print(v) then Print( Read a ) ) 
+
+ symTable:
+a->1v->10
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->22 #################ID: 1
+ExeStack:
+ Print(v) then Print( Read a )
+FORK( Write a=30 then v=32 then Print(v) then Print( Read a ) ) 
+
+ symTable:
+a->1v->10
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->22 #################ID: 1
+ExeStack:
+ Print(v) then Print( Read a )
+
+ symTable:
+a->1v->10
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->22 #################ID: 2
+ExeStack:
+ Write a=30 then v=32 then Print(v) then Print( Read a )
+
+ symTable:
+a->1v->10
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->22 #################ID: 1
+ExeStack:
+ Print(v) then Print( Read a )
+
+ symTable:
+a->1v->10
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->22 #################ID: 2
+ExeStack:
+ Write a=30 then v=32 then Print(v) then Print( Read a )
+
+ symTable:
+a->1v->10
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->22 #################ID: 1
+ExeStack:
+ Print( Read a )
+Print(v)
+
+ symTable:
+a->1v->10
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->22 #################ID: 2
+ExeStack:
+ v=32 then Print(v) then Print( Read a )
+Write a=30
+
+ symTable:
+a->1v->10
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->22 #################ID: 1
+ExeStack:
+ Print( Read a )
+Print(v)
+
+ symTable:
+a->1v->10
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->22 #################ID: 2
+ExeStack:
+ v=32 then Print(v) then Print( Read a )
+Write a=30
+
+ symTable:
+a->1v->10
+
+ Output:
+
+ FileTable: 
+
+ Heap: 
+ 1->22 #################ID: 1
+ExeStack:
+ Print( Read a )
+
+ symTable:
+a->1v->10
+
+ Output:
+10 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 2
+ExeStack:
+ v=32 then Print(v) then Print( Read a )
+
+ symTable:
+a->1v->10
+
+ Output:
+10 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 1
+ExeStack:
+ Print( Read a )
+
+ symTable:
+a->1v->10
+
+ Output:
+10 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 2
+ExeStack:
+ v=32 then Print(v) then Print( Read a )
+
+ symTable:
+a->1v->10
+
+ Output:
+10 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 1
+ExeStack:
  
+ symTable:
+a->1v->10
+
+ Output:
+10 30 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 2
+ExeStack:
+ Print(v) then Print( Read a )
+v=32
+
+ symTable:
+a->1v->10
+
+ Output:
+10 30 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->1v->10
+
+ Output:
+10 30 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 2
+ExeStack:
+ Print(v) then Print( Read a )
+v=32
+
+ symTable:
+a->1v->10
+
+ Output:
+10 30 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->1v->32
+
+ Output:
+10 30 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 2
+ExeStack:
+ Print(v) then Print( Read a )
+
+ symTable:
+a->1v->32
+
+ Output:
+10 30 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->1v->32
+
+ Output:
+10 30 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 2
+ExeStack:
+ Print(v) then Print( Read a )
+
+ symTable:
+a->1v->32
+
+ Output:
+10 30 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 1
+ExeStack:
+ 
+ symTable:
+a->1v->32
+
+ Output:
+10 30 
+ FileTable: 
+
+ Heap: 
+ 1->30 #################ID: 2
+ExeStack:
+ Print( Read a )
+Print(v)
+
+ symTable:
+a->1v->32
+
+ Output:
+10 30 
+ FileTable: 
+
+ Heap: 
+ 1->30 

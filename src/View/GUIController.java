@@ -67,6 +67,9 @@ public class GUIController {
 
     @FXML
     public void initialize(){
+        /*
+        Initialize the tables, create hardcoded statements and make them runnable
+         */
         addCol.setCellValueFactory(new PropertyValueFactory<>("int1"));
         heapValCol.setCellValueFactory(new PropertyValueFactory<>("int2"));
         identCol.setCellValueFactory(new PropertyValueFactory<>("in"));
@@ -181,6 +184,7 @@ public class GUIController {
     }
     @FXML
     private void clickSelect(){
+        //Select current controller(that has a statement or more(threads)) that is to be run
         int i=listaprg.getSelectionModel().getSelectedIndex();
         switch (i) {
             case 0:
@@ -200,6 +204,8 @@ public class GUIController {
     }
     @FXML
     private void clickOneStepForAll() throws Exception {
+        //Execute one step for all threads
+        //Update all tables
         if(currentController.getRepo().getPrgs().size()==0)
             return;
         List<ProgramState> prglist=currentController.getRepo().getPrgs();
@@ -267,6 +273,7 @@ public class GUIController {
     }
     @FXML
     private void onClickExeStack(){
+        //show specific execution stack of a thread
         if(currentController.getRepo().getPrgs().size()==0)
             return;
         List<ProgramState> prglist=currentController.getRepo().getPrgs();

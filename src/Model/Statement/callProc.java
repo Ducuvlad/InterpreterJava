@@ -18,12 +18,14 @@ public class callProc implements IStatement {
 
     @Override
     public ProgramState execute(ProgramState ps) throws Exception {
+        //Access procedure stored in GlobalTable
         IGlobalTable cGT=ps.getGlobalT();
         MyDictionary<String, Integer> oldSymTable=ps.getSymTable();
         MyDictionary<String, Integer> newSymTable=new MyDictionary<String, Integer>();
         if(!cGT.contains(fname))
             throw new Exception("No procedure with that name");
         else{
+            //copy symTable
             for (String v: variables
                  ) {
                 if(oldSymTable.contains(v))
@@ -32,8 +34,8 @@ public class callProc implements IStatement {
                     throw new Exception("Variable not found in old symtable");
 
             }
-            ps.getFullStack().push(newSymTable);
-            ps.getExeStack().push(new ReturnStm());
+            ps.getFullStack().push(newSymTable);//push new symtable
+            ps.getExeStack().push(new ReturnStm());//push new ReturnStm on exestack for the end of procedure
             ps.getExeStack().push(cGT.get(fname).getSecond()); //push IStatement body of procedure
         }
         return null;

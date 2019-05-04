@@ -6,6 +6,7 @@ import Model.Utils.ISymTable;
 import Model.Utils.MyDictionary;
 
 public class ConstExp implements IExpression {
+    //Constant Expression , evaluate returns its value
     private int value;
     public ConstExp(int val){ value = val;}
     public int evaluate(MyDictionary<String, Integer> st, IHeap heap) {

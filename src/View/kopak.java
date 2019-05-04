@@ -14,11 +14,14 @@ import javafx.stage.Stage;
 import java.awt.*;
 
 public class kopak extends Application {
+    /*
+    GUI Application start point
+     */
     @Override
     public void start(Stage stage) throws Exception {
         Parent root = FXMLLoader.load(getClass().getResource("GUIA8.fxml"));
 
-        Scene scene = new Scene(root, 800, 675);
+        Scene scene = new Scene(root, 1100, 675);
 
         stage.setTitle("FXML Welcome");
         stage.setScene(scene);

@@ -11,7 +11,7 @@ public class UnlockStm implements IStatement {
     public UnlockStm(String varName) {
         this.varName = varName;
     }
-
+    //unlock lockstatement
     @Override
     public ProgramState execute(ProgramState ps) throws Exception {
         if (!ps.getSymTable().contains(varName))

@@ -6,6 +6,8 @@ import Model.Utils.MyDictionary;
 import Model.Utils.MyStack;
 
 public class IfStm implements IStatement {
+    // if evaluation of exp is 1 then push statement ifst on execution stack,
+    // else push statement elsest2
     private IStatement ifst, elsest2;
     private IExpression exp;
 

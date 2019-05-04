@@ -7,7 +7,7 @@ import Model.Utils.MyDictionary;
 
 public class VarExp implements IExpression {
     private String name;
-
+    //Variable expression, evaluate takes the value from the SymbolStack of the ProgramState
     public VarExp(String name) {
         this.name = name;
     }

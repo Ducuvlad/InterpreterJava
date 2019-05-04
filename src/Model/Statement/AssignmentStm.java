@@ -6,6 +6,8 @@ import Model.Utils.ISymTable;
 import Model.Utils.MyDictionary;
 
 public class AssignmentStm implements IStatement {
+    //Assign a variable an IExpression
+    //example: new AssignmentStm("variable1",new ConstExp(3))
     private String varName;
     private IExpression expr;
 

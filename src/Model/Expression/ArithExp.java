@@ -8,7 +8,7 @@ import Model.Utils.MyDictionary;
 public class ArithExp implements IExpression {
     private IExpression op1, op2;
     private char operator;
-
+    //returns value given by operator used on the evaluation of op1 and the evaluation of op2
     public ArithExp(IExpression op1, IExpression op2, char operator) {
         this.op1 = op1;
         this.op2 = op2;

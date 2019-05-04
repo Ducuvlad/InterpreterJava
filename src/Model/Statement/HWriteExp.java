@@ -6,6 +6,7 @@ import Model.Utils.IHeap;
 import Model.Utils.MyDictionary;
 
 public class HWriteExp implements IStatement {
+    //write IExpression to heap with name varName
     String varName;
     IExpression expr;
 

@@ -7,7 +7,7 @@ import Model.Utils.MyDictionary;
 
 public class HReadExp implements IExpression {
     String varName;
-
+    //returns value of variable varName that is stored in the heap
     public HReadExp(String varName) {
         this.varName = varName;
     }

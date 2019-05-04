@@ -7,6 +7,17 @@ import java.io.BufferedReader;
 import java.util.Stack;
 
 public class ProgramState {
+    /*
+    exeStack = stack of IStatements that represent the program execution schedule
+    output = List of integers that represent the output (PrintStm) of the program
+    program = the original IStatement at the creation of the ProgramState, might be useful
+    ID = id of the ProgramState, used in threading
+    ftable = FileTable , a dictionary containing idOfFile,nameOfFile,BufferedReader //todo check
+    heap = heap for values,shared between treads
+    symtable = Stack of dictionaries that map nameOfLocalVariable->value
+               The stack is needed for procedures ,they have different local variables
+    GlobalT = Shared Map of nameOfProcedure->list of localVariableNames , procedure execution statement
+     */
     private MyStack<IStatement> exeStack = new MyStack<>();
     private MyList<Integer> output = new MyList<>();
     //private MyDictionary<String, Integer> symTable = new MyDictionary<>();
